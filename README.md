@@ -1,2 +1,2 @@
 # new excercice 
-ecercice git gub avec monsieur khiwan Ibrahim 
+excercice git hub avec monsieur khiwan Ibrahim 
